@@ -112,3 +112,11 @@ nav {
 .toggle .line3 {
     transform: rotate(45deg) translate(-5px, -6px);
 }
+
+h1 {
+    font-family: 'lora', serif;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
