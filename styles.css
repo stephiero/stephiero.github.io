@@ -120,6 +120,13 @@ h1 {
     justify-content: space-around;
 }
 
+h2 {
+    font-family: 'lora', serif;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
 .social-links {
     font-family: 'lora', serif;
     display: flex;
